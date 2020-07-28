@@ -8,5 +8,3 @@ My pinned repos are some of my best work, but the are getting old and out of dat
 getting into more open source. I mostly work with front end web technologies but am not afraid to dive into some backend. 
 
 Update to https://mikecurry.dev coming soon!
-
-[![cryptofool13's github stats](https://github-readme-stats.vercel.app/api?username=cryptofool13)](https://github.com/anuraghazra/github-readme-stats)
