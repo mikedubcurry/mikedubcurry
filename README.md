@@ -1,10 +1,5 @@
-<style>
-* {
-  margin: 0;
-  padding:0;
-  }
-</style>
-### Welcome 
+
+<h2>Welcome</h2> 
 
 - 💻 I’m currently working on SAP UI5 apps for Atlas Copco
 - 🦀 I’m learning Rust on my free time
