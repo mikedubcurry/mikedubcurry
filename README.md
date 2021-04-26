@@ -2,7 +2,7 @@
 ## Welcome 
 
 - 💻 I’m currently working on SAP UI5 apps for Atlas Copco
-- 🦀 learning Rust in my free time
+- 👀 Spending time in the Svelte ecosystem
 - 🔊 interested in audio
 
 My pinned repos were some of my best work, but the are getting old and out of date now. I'm working on some new stuff as well as looking into 
