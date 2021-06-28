@@ -5,7 +5,6 @@
 - 👀 Spending time in the Svelte ecosystem
 - 🔊 interested in audio
 
-My pinned repos were some of my best work, but the are getting old and out of date now. I'm working on some new stuff as well as looking into 
-getting into more open source. I mostly work with front end web technologies but am not afraid to dive into some backend. 
+My pinned repos are some of my best work or are what I'm currently working on. I mostly work with front end web technologies but am not afraid to dive into some backend. New site is live!
 
-Update to https://mikecurry.dev coming soon!
+https://mikecurry.dev
