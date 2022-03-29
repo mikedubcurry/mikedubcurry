@@ -1,7 +1,7 @@
 
 ## Welcome 
 
-💻 I’m currently working on SAP UI5 apps for Atlas Copco
+💻 I’m currently working at Troy Web Consulting
 
 👀 Spending time in the Svelte ecosystem
 
