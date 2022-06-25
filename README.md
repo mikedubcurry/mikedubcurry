@@ -3,7 +3,7 @@
 
 💻 I’m currently working at Troy Web Consulting
 
-👀 Spending time in the Svelte ecosystem
+👀 JavaScripe, PHP, and Rust
 
 💬 "Always bet on JavaScript"
 
