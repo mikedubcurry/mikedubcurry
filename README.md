@@ -1,10 +1,6 @@
 
-## Welcome 
+## all your base are belong to us
 
-💻 I’m currently working at Troy Web Consulting
-
-👀 JavaScript, PHP, and Rust
-
-💬 "Always bet on JavaScript"
-
+## ⬆️ ⬆️ ⬇️ ⬇️ ⬅️ ➡️ ⬅️ ➡️ 🅱️ 🅰️ 
+ 
 
